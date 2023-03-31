@@ -1,8 +1,6 @@
 import pandas as pd
 from openpyxl import load_workbook
 
-# DRAFT
-
 ### Getting mean values of a single wind dataset for each fishing areas region 
 
 # reading only the columns we are interested in: wind values and region
